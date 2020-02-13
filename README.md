@@ -3,7 +3,7 @@
 
  Basics Document:
  The basics doument will mainly contain examples that have been done for more basic php functions that can be done. The main things that will be done in on the document are listed below.
-    - echo
+    - echo <br>
     - variables
     - arrays
     - if, else and switch
